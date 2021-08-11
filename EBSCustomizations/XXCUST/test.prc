@@ -1,4 +1,4 @@
-create or replace procedure test_poc
+create or replace procedure test_poc as
 
 begin
 null;
